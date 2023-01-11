@@ -1,4 +1,4 @@
-public class CountSetbits {
+public class CountSetBits {
     public static void main(String[] args) {
         int num = 6;
         System.out.println(countSetBits(num));
