@@ -14,8 +14,8 @@ public class MaxAND {
     }
     static int getCount(int num, int[] arr) {
         int count = 0;
-        for(int i = 0; i < arr.length; i++) {
-            if((arr[i] & num )== num) {
+        for (int val : arr) {
+            if ((val & num) == num) {
                 count++;
             }
         }
