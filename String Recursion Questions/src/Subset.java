@@ -5,7 +5,7 @@ import java.util.List;
 public class Subset {
     public static void main(String[] args) {
         int[] arr = {2, 1, 2};
-        for(List<Integer> list : subSetWithDuplicates(arr)) {
+        for(List<Integer> list : subSet(arr)) {
             System.out.println(list);
         }
     }
