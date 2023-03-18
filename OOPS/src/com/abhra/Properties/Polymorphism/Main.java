@@ -3,6 +3,7 @@ package com.abhra.Properties.Polymorphism;
 public class Main {
     public static void main(String[] args) {
         Shapes obj = new Shapes();
+        System.out.println(obj.toString());
         Circle c1 = new Circle();
         Triangle t1 = new Triangle();
         c1.area();  // area method is being overridden and which function will be called it properly depends upon the type of object

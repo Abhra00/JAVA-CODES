@@ -1,5 +1,9 @@
 package com.abhra.OOPS_LEC_2;
 
+import com.abhra.AccessModifier.A;
+import com.abhra.AccessModifier.B;
+import com.abhra.AccessModifier.C;
+
 public class Main {
     public static void main(String[] args) {
         Human abhra = new Human("Abhra Mondal", 20, 1_50_000);
