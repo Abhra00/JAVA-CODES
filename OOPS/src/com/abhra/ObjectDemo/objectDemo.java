@@ -1,4 +1,4 @@
-package ObjectDemo;
+package com.abhra.ObjectDemo;
 
 public class objectDemo {
     int num;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Backtracking/src"/>
+	<classpathentry kind="src" path="Binary Search Questions/src"/>
+	<classpathentry kind="src" path="Bit Manipulation/src"/>
+	<classpathentry kind="src" path="Cyclic Sort  Questions/src"/>
+	<classpathentry kind="src" path="Linear Binary Search/src"/>
+	<classpathentry kind="src" path="Maths And Algorithims/src"/>
+	<classpathentry kind="src" path="OOPS/src"/>
+	<classpathentry kind="src" path="Pattern Questions/src"/>
+	<classpathentry kind="src" path="Recursion Array Questions/src"/>
+	<classpathentry kind="src" path="Recursion Basics/src"/>
+	<classpathentry kind="src" path="Recursion Leetcode/src"/>
+	<classpathentry kind="src" path="Recursion Pattern Questions/src"/>
+	<classpathentry kind="src" path="Recursion Questiom/src"/>
+	<classpathentry kind="src" path="Sliding Window/src"/>
+	<classpathentry kind="src" path="Sorting Questions/src"/>
+	<classpathentry kind="src" path="Sorting Techniques/src"/>
+	<classpathentry kind="src" path="String Basics/src"/>
+	<classpathentry kind="src" path="String Questions/src"/>
+	<classpathentry kind="src" path="String Recursion Questions/src"/>
+	<classpathentry kind="output" path="Backtracking/out/production/Backtracking"/>
+</classpath>

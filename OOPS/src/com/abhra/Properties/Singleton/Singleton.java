@@ -1,4 +1,4 @@
-package com.abhra.Singleton;
+package com.abhra.Properties.Singleton;
 
 public class Singleton {
 //    Singleton is that type of class where you are allowed to create one instance of an object

@@ -1,4 +1,4 @@
-package com.abhra.Singleton;
+package com.abhra.Properties.Singleton;
 
 public class SingletonTest {
     public static void main(String[] args) {

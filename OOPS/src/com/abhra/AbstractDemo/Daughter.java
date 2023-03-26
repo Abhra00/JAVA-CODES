@@ -2,7 +2,7 @@ package com.abhra.AbstractDemo;
 
 public class Daughter extends Parent{
     @Override
-    void carrer() {
+    void career() {
         System.out.println("I want to be an Doctor");
     }
     @Override
